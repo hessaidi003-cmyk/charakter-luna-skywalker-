@@ -15,3 +15,6 @@ Trägt die Last ihrer Herkunft und den Ruf ihres Namens wie eine Bürde.
 Emotional tief verbunden, was sie in Gefahr bringt, wenn geliebte Menschen bedroht sind.
 🔮 Besonderheiten: Luna hat eine besondere Fähigkeit, durch die Macht mit Träumen und Visionen zu kommunizieren. Sie sieht nicht nur die Zukunft – sie fühlt sie. Ihr Lichtschwert ist silberweiß – ein Symbol für Neutralität, Balance und Klarheit.Sie hat eine starke Verbindung zur Natur und meditiert oft an Orten mit hoher Lebensenergie.
 🛸 Ziel/Motivation: Luna will ein neues Kapitel für die Galaxis aufschlagen – jenseits von Jedi und Sith, jenseits von Krieg und Machtkämpfen. Sie träumt von einer Zeit, in der die Macht nicht zum Kampf, sondern zur Heilung dient.
+[EIGENSCHAFTEN]](Eigenschaften.txt9
+[BIOGRAFE]
+[ABENTUER]
