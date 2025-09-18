@@ -17,4 +17,4 @@ Emotional tief verbunden, was sie in Gefahr bringt, wenn geliebte Menschen bedro
 🛸 Ziel/Motivation: Luna will ein neues Kapitel für die Galaxis aufschlagen – jenseits von Jedi und Sith, jenseits von Krieg und Machtkämpfen. Sie träumt von einer Zeit, in der die Macht nicht zum Kampf, sondern zur Heilung dient.
 [EIGENSCHAFTEN]](Eigenschaften.txt9
 [BIOGRAFE]
-[ABENTUER]
+[ABENTUER](abenteuer.md)
