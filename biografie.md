@@ -1,7 +1,7 @@
 Biografie: Luna Skywalker
 Allgemeine Informationen
 Name: Luna Skywalker
-Herkunft: Ein abgelegener Planet im Einflussbereich der *SunFaction
+Herkunft: Ein abgelegener Planet im Einflussbereich der SunFaction
 Berufung: Zauberin Künstlerin  Raumfahrerin  Zeitreisende
 Ausrüstung:
 Halb lebender Roboter Direktiv
